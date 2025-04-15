@@ -16,4 +16,4 @@ spec:
         - name: test-api
           image: umadevimt/test-api:latest
           ports:
-            - containerPort:3000
+            - containerPort: 3000
